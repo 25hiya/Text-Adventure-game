@@ -1,0 +1,44 @@
+\documentclass[11pt]{article}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amsthm}
+\usepackage[utf8]{inputenc}
+\usepackage[margin=0.75in]{geometry}
+
+\title{CSC111 Winter 2024 Project 1}
+\author{TODO: FILL IN YOUR NAME(S) HERE}
+\date{\today}
+
+\begin{document}
+\maketitle
+
+\section*{Enhancements}
+
+
+\begin{enumerate}
+
+\item Describe your enhancement \#1 here
+	\begin{itemize}
+	\item The first enhancement in out game is a puzzle where the player has to play a hangman game to find the name of the book in which the cheat sheet is.: 
+    
+	\item Medium
+	\item The code is not too complex, but because we had to check for different letters and that insert them into the corresponding positions, this enhancement might seem of medium complexity. All concepts used in the code for this enhancement are familiar so there wasn't nothing challenging when writing the code. We created an empty list of strings of underscores as the same length as the answer. Then we keep track of the number of incorrect guesses a player can make. With a while loop, if the player haven't used up all their chances, the loop will continue to reiterate, where we use input function to get the player's guess and if their guess is one of the letters in the answer, we use if-else statements for all letters, and used mutation where we you list indexing to mutate the empty list of string
+	\end{itemize}
+
+% Uncomment below section if you have more enhancements; copy-paste as many times as needed
+\item Describe your enhancement \#2 here
+	\begin{itemize}
+	\item The second enhancement of this game was another puzzle that the player had to solve to find their pen. This puzzle involved playing a card game called higher or lower.
+	\item Complex
+	\item This enhancement took time as there was quite a bit of calculation involved and it also used inheritance. It was a bit complicated to summarize the if statements when prioritizing numerical values over suits, and make the code as simple as possible (fewer if-else statements)
+        \end{itemize}
+
+\end{enumerate}
+
+
+\section*{Extra Gameplay Files}
+Because out game was based in two completely different buildings and also just different floors in each building, we had to create more than one instance of the world class. For that, for each floor in each building we have a different map and different locations in each map. 
+
+Other than that, we have one enhancement python file that stores the two enhancements(puzzles) of the game. 
+
+\end{document}

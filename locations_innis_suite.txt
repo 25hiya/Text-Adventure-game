@@ -1,0 +1,35 @@
+LOCATION -1
+()
+0
+That way is blocked.
+That way is blocked.
+[]
+[]
+END
+
+LOCATION 21
+(1,1)
+0
+You are now in your suite. In front of you is a small corridor. Where do you want to go? N: Corridor
+You are now in your suite. In front of you is a small corridor.Looking at the food in the kitchen is making you feel hungry but you have no time to eat. You have to rush! Where do you want to go? N: Corridor
+[]
+["N"]
+END
+
+LOCATION 1
+(1,0)
+0
+You are now in the corridor of your suite, and your friend's room is next to your right. Where do you want to go? E: Room; S: Main door
+You are now in the corridor of your suite, and your friend's room is next to your right. Where do you want to go? E: Room; S: Main door
+[]
+["E", "S"]
+END
+
+LOCATION 2
+(2,0)
+10
+You are at your friend's room now. The corridor you came in from is to your left. W: Corridor
+You are finally at your friend's room! And you found your T-card. You can see the T-card is on your friend's desk. Press the action of "take" to take the T-card. Where do you want to go? W: Corridor
+["t-card"]
+["W"]
+END

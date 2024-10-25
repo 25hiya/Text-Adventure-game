@@ -1,0 +1,107 @@
+LOCATION -1
+()
+0
+That way is blocked.
+That way is blocked.
+[]
+[]
+END
+
+LOCATION 13
+(1,0)
+0
+This is the end of the hall. The study lounge is next to you. Where do you want to go? E: Study Lounge; S:Corridor between Game Room and Suite C.
+This is the end of the hall. The study lounge is next to you. Where do you want to go? E: Study Lounge; S:Corridor between Game Room and Suite C.  
+[]
+["E", "S"]
+END
+
+LOCATION 12
+(2,0)
+0
+You are now in the study lounge. Where do you want to go? W: Corridor at the end of the hall
+You are now in the study lounge but you don't see your friend there! She said she was going to be there? What about the Key card? You look for the key card and see she actually left it for you on the one of the desks there. You can finally take it and go to your suite to get the T-card. But remeber to bring her key card to where it was! Where do you want to go? W: Corridor at the end of the hall
+["keycard"]
+["W"]
+END
+
+LOCATION 8
+(0,1)
+0
+You are now at Suite C but this not your suite so you cannot enter!. Where do you want to go? E: Corridor between Game Room and Suite C.  
+You are now at Suite C but this not your suite so you cannot enter!. Where do you want to go? E: Corridor between Game Room and Suite C.
+[]
+["E"]
+END
+
+LOCATION 10
+(1,1)
+5
+You are now in the corridor between Game Room and Suite C.Where do you want to go? W: Suite C; E: Game Room; N: Corridor next to the study lounge S: Corridor between the stairs and Suite A
+You are now in the corridor between Game Room and Suite C. There is no one in the game room, but you can hear some noise from the Suite C as if someone is cooking. Maybe it feels good knowing there is someone in the building. Where do you want to go? W: Suite C; E: Game Room; N: Corridor next to the study lounge
+["Cheat Sheet", "Books"]
+["W","E","N","S"]
+END
+
+LOCATION 11
+(2,0)
+0
+There is the game Room and laundry room next to you. Where do you want to go? W: Corridor between Game Room and Suite C 
+There is the game Room and laundry room next to you. There is no noise on the floor, just the whirring sound of the washing machine from the laundry room. You can continue by turning into the corridor that has the entrance to the Game room and other suites, including yours on the floor. Where do you want to go? W: Corridor between Game Room and Suite C
+[]
+["W"]
+END
+
+LOCATION 7
+(0,2)
+0
+You are now at Suite B but this not your suite so you cannot enter!. Where do you want to go? E: Corridor
+You are now at Suite B but this not your suite so you cannot enter!. Where do you want to go? E: Corridor    
+[]
+["E"]
+END
+
+LOCATION 9
+(1,2)
+5
+You are now in the corridor next to the stairs, There is Suite B next to you and the corridor between the game room and the next suite. Where do you want to go? W: Suite B; S: Corridor across Suite A; N: Corridor between the Game room and Suite C
+You are now in the corridor next to the stairs, There is Suite B next to you and the corridor between the game room and the next suite. Where do you want to go? W: Suite B; S: Corridor across Suite A; N: Corridor between the Game room and Suite C
+[]
+["W","S", "N"]
+END
+
+LOCATION 20
+(2,2)
+5
+You came up the stairs and currently standing on the 2nd floor which is where your room is. There is a corridor that you can go through to explore what's on this floor. Where do you want to go? S: Corridor
+You came up the stairs and currently standing on the 2nd floor which is where your room is. There is a corridor that you can go through to explore what's on this floor. Where do you want to go? S: Corridor
+["Cheat Sheet", "Books"]
+["S"]
+END
+
+LOCATION 21
+(0,3)
+10
+You are now in front of Suite A, your suite. Where do you want to go? E: Corridor
+You are now in front of your suite but you can only enter if you have your key card. Where do you want to go? E: Corridor
+[]
+["E"]
+END
+
+LOCATION 5
+(1,2)
+5
+You are now in corridor across suite A (your suite) and there is another corridor that goes the other suite in the oppsoite direction. Where do you want to go? N: Corridor across Suite B; W: Suite A; E: Corridor Across the stairs.
+You are now in corridor across suite A (your suite) and there is another corridor that goes the other suite in the oppsoite direction. You have made it to your suite, but do you have your friend's keycard that you are supposed to get from her from the Study lounge to open her door to get your T-card?. Where do you want to go?N: Corridor across Suite B; W: Suite A; E: Corridor Across the stairs.
+[]
+["N","W","E"]
+END
+
+LOCATION 14
+(1,2)
+0
+You are in the corridor in front of the stairs Where do you want to go? N: Stairs; W: Corridor across Suite A
+You are in the corridor in front of the stairs Where do you want to go? N: Stairs; W: Corridor across Suite A
+[]
+["N","W"] 
+END

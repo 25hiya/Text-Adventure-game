@@ -1,0 +1,6 @@
+6 w_gerstein_1B w_start 21 10 cheatsheet
+6 w_innis_suite w_start 21 15 t-card
+4 w_gerstein_1B w_start 21 10 pen 
+2 w_innis_gf w_innis_gf 2 0 chocolates
+6 w_gerstein_1B w_gerstein_1B 6 0 books
+12 w_innis_study w_innis_study 12 10 keycard

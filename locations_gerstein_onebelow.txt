@@ -1,0 +1,62 @@
+LOCATION -1
+()
+0
+That way is blocked.
+That way is blocked.
+[]
+[]
+END
+
+LOCATION 20
+(1,1)
+5
+You are now at the stairs from one-below to first floor. Where do you want to go? W: Corridor connecting stairs, toilet and study area
+You are now at the stairs from one-below to first floor. Where do you want to go? W: Corridor connecting stairs, toilet and study area 
+[]
+["W"]
+END
+
+LOCATION 2
+(0,1)
+0
+You are now in the corridor. You can go to the study room ahead of you or the toilets. Where do you want to go? N: Study Area; S: Toilet
+You are now in the corridor. You can go to the study room ahead of you or the toilets. Where do you want to go? N: Study Area; S: Toilet 
+[]
+["N","S"]
+END
+
+LOCATION 3
+(0,2)
+0
+You are in in front of the toilets. Where do you want to go? N: Corridor connecting stairs, toilet and study area
+You are in in front of the toilets. Where do you want to go? N: Corridor connecting stairs, toilet and study area
+[]
+["N"]
+END
+
+LOCATION 4
+(0,0)
+5
+You are now in the study area and it is really quiet. Where do you want to go? E: Corridor connecting study area and Morrison Pavilion ; S: Corridor connecting stairs, toilet and study area 
+You are now in the study area and it is really quiet. In fact this entire floor seems a little creepy - pretty dark. As soon as you entered the study room, the few peolle studying there, all looked up at the same time staring at you expresionless, looking like ghosts. Do you maybe want to move around and explore or go to another corridor connecting to the Morrison Pavillion. Where do you want to go? E: Corridor connecting study area and Morrison Pavilion ; S: Corridor connecting stairs, toilet and study area 
+["pen"]
+["E","S"]
+END
+
+LOCATION 5
+(1,0)
+5
+You are now in the corridor connecting to the Morrison Hall. Where do you want to go? W: Study Area; E: Morrison Pavilion
+You are now in the corridor connecting to the Morrison Hall. Phew! you are finally away fron that study hall.  Where do you want to go? W: Study Area; E: Morrison Pavilion.
+[]
+["W","E"]
+END
+
+LOCATION 6
+(2,0)
+10
+You are now in the Morrison Pavilion. W: Corridor connecting study area and Morrison Pavilion
+You are now in the Morrison Pavilion. Do you remeber being here yerterday? You definitely did some research from some books at the library. Was it at this floor, this creepy and dark place? Yes!! You made it to where you lost your hceat sheet. Let's play a small game to find the cheat sheet! Where do you want to go? 
+["cheatsheet", "books"]
+["W"]
+END

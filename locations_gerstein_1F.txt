@@ -1,0 +1,71 @@
+LOCATION -1
+()
+0
+That way is blocked.
+That way is blocked.
+[]
+[]
+END
+
+LOCATION 21
+(1,3)
+5
+You are on the main floor of the Gerstein Library.
+You are on the main floor of the Gerstein Library.  Behind you, is exit to King's College Circle. It's not very crowded right now, maybe becasue everyone is in classes at this time. You remember the long hours you spent in this library yesterday preparing for your test today and it gives you flashbacks of how hard you worked so you have to find everything you lost to successfully write the exam. Where do you want to go? N :Stairs leading to T-card station ; E : Stairs leading to basement
+["Cheat Sheet", "Books"]
+["N", "E"]
+END
+
+LOCATION 2
+(1,2)
+5
+You are in front of the t-card station. There is the security office next to you. 
+You are in front of the t-card station. There is the security office next to you. You look for the t-card in your bag, in your jacket's pockets but you can't seem to find it anywhere. Tensed and worried, you go to the security officer asking you to let in. He simply stared at you as if he had enough and rudely asks for your UTORid. But your mind went blank and you couldn't remember and despite your requests he didn't help you any further. Where could you have possibly left your t-card? Where do you want to go? N : Main Lobby ; S : Entrance/Exit
+["Cheat Sheet", "Books"]
+["N", "S"]
+END
+
+LOCATION 5
+(1,1)
+5
+You are now standing in the corridor. 
+You are now standing in the corridor. To your left is the Wallace room which is extremely quiet with a lot of students focused and studying. The computer lab where you can see some people coming and going but not as many  Everyone seems under stress so better not to approach anyone and focus on finding your cheat sheet. Where did you leave your cheat sheet? Where do you want to go? N : Corridor connecting study area and main lobby ; W : Wallace Room ;E : Computer Lab ;S : T-card Station
+["Cheat Sheet", "Books"]
+["N", "W", "E", "S"]
+END
+
+LOCATION 7
+(0,1)
+0
+You are in the Wallace Room. There are long tables on either sides. 
+You are in the Wallace Room. There are long tables on either sides with many chairs and students working on thier assignments. Were you here yesterday? Could you possibly have left your cheat sheet somewhere on the table? Where do you want to go? E : Main Lobby
+["Cheat Sheet", "Books"]
+["E"]
+END
+
+LOCATION 6
+(2,1)
+0
+You are in the computer lab. 
+You are in the computer lab. You walked around the computer lab and noticed a series of computers glitching. However, other people passing by you didn't seem bothered by it. Could it be that its only you who is seeing this? But there's no time, you gotta find your cheat sheet... Were you here yesterday? Could you possibly have left your cheat sheet somewhere here?  Where do you want to go? W : Main Lobby
+["Cheat Sheet", "Books"]
+["W"]
+END
+
+LOCATION 8
+(1,0)
+0
+You are in the study area. 
+You are in the study area.  The study area seems awfully quiet with no students around. You remembered the tense atmosphere of this room yesterday, hence you didn't study here. Where did you go then? Where do you want to go? W : Stairs connecting 1below - first floor ; S : Main Lobby
+["Books", "Paper", "Pen"]
+["W","S"]
+END
+
+LOCATION 20
+(0,0)
+10
+stairs to one-below. Where do you want to go? E: Corridor connecting study area and main lobby
+stairs to one-below. Where do you want to go? E: Corridor connecting study area and main lobby
+[]
+["E"]
+END

@@ -1,0 +1,62 @@
+LOCATION -1
+()
+0
+That way is blocked.
+That way is blocked.
+[]
+[]
+END
+
+LOCATION 20
+(3,0)
+5
+You are at the stairs that lead you to the upper floors. Where do you want to go? S:Corridor
+Annoyed, you take the stairs to go up. Where do you want to go? S:Corridor
+[]
+["S"]
+END
+
+LOCATION 5
+(4,1)
+0
+You are in fron tof the lift but it has broken down. Where do you want to go? W:Corridor 
+You went for the lift, smart choice! Oh no! but unfortunately the lift is broken and isn't working, so there is no choice but to use the stairs by going back to the corridor. Where do you want to go? W:Corridor
+[]
+["W"]
+END
+
+LOCATION 3
+(3,1)
+2
+You went to right corridor, swiped your key card that allows you to enter the dorms. There is a lift, stairs around you.Where do you want to go? N: Stairs; W:Main Lobby; E:Lift
+You went to right corridor, swiped your key card that allows you to enter the dorms. There is a lift, stairs around you. Do you really want to take the stairs? And do you really have the time to take the stairs? Where do you want to go? N: Stairs; W:Main Lobby; E:Lift
+[]
+["N", "W", "E"]
+END
+
+LOCATION 2
+(2,1)
+2
+You are now in the main lobby at the Innis ground floor. There are two corridors now, one to the left and other to the right. Where do you want to go? W:Left Corridor; E:Right Corridor; S: Entrance/Exit
+You are now in the main lobby at the Innis ground floor. There is a front desk in front of you but there is no one sitted there which is surprising becasue there is always someone there to check your keycard. There are two corridors now, one to the left and other to the right. Where do you want to go? W:Left Corridor; E:Right Corridor; S: Entrance/Exit
+["Chocolates"]
+["W", "E","S"]
+END
+
+LOCATION 6
+(1,1)
+2
+The corridor leading to the west wing of the building is not accessible. So you are now in the corridor leading to the main lobby. Where do you want to go? E: Main Lobby
+The corridor leading to the west wing of the building is not accessible. So you are now in the corridor leading to the main lobby. Where do you want to go? E: Main Lobby
+[]
+["E"]
+END
+
+LOCATION 21
+(2,2)
+5
+You now enterted the Innis residence building. Where do you want to go? N: Main Lobby
+You now enterted the Innis residence building. There is a corridor in front of you. But your residence is extremely quiet. There is no one in the Events room where there is always one or another person doing something. Infact there is no one coming in and out of the residence either. Where do you want to go? N: Main Lobby
+[]
+["N"]
+END
